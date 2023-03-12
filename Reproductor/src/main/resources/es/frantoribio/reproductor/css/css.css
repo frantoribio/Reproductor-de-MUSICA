@@ -1,0 +1,57 @@
+.root {
+    -fx-background-color: #d1b2f6;
+}
+
+#salir {
+    -fx-background-color: #1c1c1c;
+    -fx-effect: dropshadow(three-pass-box, rgba(171, 163, 163, 0.8), 10, 0, 0, 0); /* Boton con degradado */
+    -fx-background-insets: 0, 1, 1;
+    -fx-background-radius: 80;
+    -fx-text-fill: #DCCCCCFF;
+    -fx-font-size: 15;
+}
+
+#buttonCargarCanciones {
+    -fx-background-color: #1c1c1c;
+    -fx-effect: dropshadow(three-pass-box, rgba(171, 163, 163, 0.8), 10, 0, 0, 0);
+    -fx-background-insets: 0, 1, 1;
+    -fx-background-radius: 80;
+    -fx-text-fill: #DCCCCCFF;
+    -fx-font-size: 15;
+}
+
+#inicioCancionButton {
+    -fx-background-color: #1c1c1c;
+    -fx-effect: dropshadow(three-pass-box, rgba(171, 163, 163, 0.8), 10, 0, 0, 0);
+    -fx-background-insets: 0, 1, 1;
+    -fx-background-radius: 80;
+    -fx-text-fill: #DCCCCCFF;
+    -fx-font-size: 15;
+}
+
+#playButton {
+    -fx-background-color: #1c1c1c;
+    -fx-effect: dropshadow(three-pass-box, rgba(171, 163, 163, 0.8), 10, 0, 0, 0);
+    -fx-background-insets: 0, 1, 1;
+    -fx-background-radius: 80;
+    -fx-text-fill: #DCCCCCFF;
+    -fx-font-size: 15;
+}
+
+#finalCancionButton {
+    -fx-background-color: #1c1c1c;
+    -fx-effect: dropshadow(three-pass-box, rgba(171, 163, 163, 0.8), 10, 0, 0, 0);
+    -fx-background-insets: 0, 1, 1;
+    -fx-background-radius: 80;
+    -fx-text-fill: #dccccc;
+    -fx-font-size: 15;
+}
+
+#pauseButton {
+    -fx-background-color: #1c1c1c;
+    -fx-effect: dropshadow(three-pass-box, rgba(171, 163, 163, 0.8), 10, 0, 0, 0);
+    -fx-background-insets: 0, 1, 1;
+    -fx-background-radius: 80;
+    -fx-text-fill: #DCCCCCFF;
+    -fx-font-size: 15;
+}
